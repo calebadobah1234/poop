@@ -1,0 +1,2 @@
+[1015/235653.321:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1016/015115.065:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\caleb\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\bff63b00-d817-4f6f-bd28-eb0e651e92e7: The system cannot find the path specified. (0x3)
