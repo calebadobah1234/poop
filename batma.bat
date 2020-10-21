@@ -5,7 +5,7 @@ goto main
 setlocal
 
 	for /r %%i in ( * ) do (
-		echo (Null ,'%%~nxi ' ,'Tv series Download Server 1', '%%i', '%%~nxi'^),
+		echo (Null ,'%%~nxi ' ,'Movie Collection Download Server-3', '%%i', '%%~nxi'^),
 	)
 	
 	endlocal
